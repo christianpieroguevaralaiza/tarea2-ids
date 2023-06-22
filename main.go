@@ -9,7 +9,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const uri = "mongodb+srv://christianguevara1:steam_00s@cluster1.wbanv4c.mongodb.net/?retryWrites=true&w=majority"
+const uri = "<reemplaza>"
 
 func main() {
 	// Use the SetServerAPIOptions() method to set the Stable API version to 1
