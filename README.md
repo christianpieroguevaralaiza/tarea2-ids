@@ -8,7 +8,9 @@ Galeria de carros conectada a una base de datos en Mongodb
 3. Instala la extension de go para vscode(si te sale alguna notificacion de vscode dale click a install all)
 
 Necesitaremos una base de datos a la cual conectarnos, para lo cual:
+
 Crearse una cuenta en mongodb:
+
 •	Puedes Registrarte con una cuenta de Google, GitHub o con un correo electronico y una contraseña
 •	Registrate usando el siguiente link link
 •	Deberas responder 3 preguntas
@@ -16,6 +18,7 @@ Crearse una cuenta en mongodb:
 •	Tambien puedes iniciar sesion mediante el siguiente link link
 
 Crear un cluster de base de datos:
+
 •	Despues de registrarte se mostraran 3 plantillas para desplegar tu base de datos, elige la que dice M0 Free
 •	Haz click en el boton verde que dice "create"
 •	Te preguntara como te gustaria autenticar la conexion, seleccionar la opcion que dice "Username and password"
